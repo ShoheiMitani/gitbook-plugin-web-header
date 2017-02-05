@@ -1,8 +1,8 @@
 {
   "name": "gitbook-plugin-web-header",
-  "description": "Add header element to web page for website. But this is still test.",
+  "description": "Add header element for website",
   "main": "index.js",
-  "version": "1.0.5",
+  "version": "1.1.1",
   "engines": {
     "gitbook": ">=3.x.x"
   },
@@ -18,5 +18,15 @@
   "keywords": [
     "header"
   ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "properties": {
+    "webheader": {
+        "type": "string",
+        "default": "",
+        "description": "Header title"
+    }
+  },
   "author": "Shohei Mitani"
 }
