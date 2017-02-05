@@ -1,8 +1,8 @@
 {
   "name": "gitbook-plugin-web-header",
-  "description": "Add header element to web page for website",
+  "description": "Add header element to web page for website. But this is still test.",
   "main": "index.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "gitbook": ">=3.x.x"
   },
