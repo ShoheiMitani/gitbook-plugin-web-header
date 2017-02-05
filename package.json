@@ -1,19 +1,22 @@
 {
-    "name": "gitbook-plugin-web-header",
-    "description": "Add header element to web page for website",
-    "main": "index.js",
-    "version": "1.0.0",
-    "engines": {
-        "gitbook": ">=3.x.x"
-    },
-    "homepage": "https://github.com/ShoheiMitani/gitbook-plugin-web-header",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ShoheiMitani/gitbook-plugin-web-header.git"
-    },
-    "license": "Apache-2.0",
-    "bugs": {
-        "url": "https://github.com/ShoheiMitani/gitbook-plugin-web-header/issues"
-    },
-    "keywords": ["header"]
+  "name": "gitbook-plugin-web-header",
+  "description": "Add header element to web page for website",
+  "main": "index.js",
+  "version": "1.0.4",
+  "engines": {
+    "gitbook": ">=3.x.x"
+  },
+  "homepage": "https://github.com/ShoheiMitani/gitbook-plugin-web-header",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShoheiMitani/gitbook-plugin-web-header.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ShoheiMitani/gitbook-plugin-web-header/issues"
+  },
+  "keywords": [
+    "header"
+  ],
+  "author": "Shohei Mitani"
 }
