@@ -5,7 +5,16 @@ module.exports = {
             "plugin.js"
         ],
         css: [
-            "web-header.css"
+            "plugin.css"
         ]
-    }
+    },
+
+    // Map of hooks
+    hooks: {},
+
+    // Map of new blocks
+    blocks: {},
+
+    // Map of new filters
+    filters: {}
 };
